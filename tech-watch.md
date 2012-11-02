@@ -15,7 +15,7 @@ thought
 * http://damienradtke.org/the-price-of-free/
 
 code
-
+* http://docs.python.org/2/library/unittest.html
 * [go-back-to-basics](http://blog.damienradtke.org/go-back-to-basics/)
 * http://damienradtke.org/playing-with-the-spotify-api/
 
@@ -57,4 +57,3 @@ Jamendo尝试让听众直接对艺术家进行赞助，这对一个档案分享�
 * http://soundcloud.com/
 * http://dir.xiph.org/ Streaming directory -- streams & radios
 
-* []()
