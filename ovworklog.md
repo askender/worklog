@@ -3,7 +3,19 @@ ovworklog
 
 dailylog of askender at ov
 
-44 - 121101
+
+44 - 121105
+
+done
+
+    1. 
+
+todo
+
+    1. backup_db, snap, recover_db
+
+
+44 - 121102
 
 done
 
